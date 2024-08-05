@@ -5,6 +5,6 @@ Golden adventure is a game made in c++ without GUI, where it was based on fighti
 Golden adventure is still in the alpha stage! Because I'm at the beginning with C++ I've been learning for 2 days and I'm not that good at it. Maybe in the future if I learn how to make a graphic interface I'll apply it to this game
 
 
-**How do I make it work?** /br
+**How do I make it work?** <br>
 To make it work you must have an ide (for example: visual studio code), if you have installed or have an ide 
 you can open that ide and drag the Golden Adventure folder into it and then you can give it run from the ide
