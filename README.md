@@ -1,2 +1,5 @@
 # Golden-adventure-CPP
 Golden adventure is a game made in c++ without GUI, where it was based on fighting monsters in a cave. You will start with a certain amount of gold and with that amount of gold you can go to the shop to buy hp or attack to defeat the monsters in the cave.
+
+
+Golden adventure is still in the alpha stage! Because I'm at the beginning with C++ I've been learning for 2 days and I'm not that good at it. Maybe in the future if I learn how to make a graphic interface I'll apply it to this game
