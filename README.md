@@ -11,6 +11,6 @@ To make it work you must have an ide (for example: visual studio code), if you h
 you can open that ide and drag the Golden Adventure folder into it and then you can give it run from the ide
 <br>
 <br>
-**News from alpha version 1.0.1: **
+**News from alpha version 1.0.1:** <br>
 Alpha version 1.0.1 includes changes to the code to make it shorter and remove unnecessary code,
 I added the armor mechanism and modified some dragon and slime codes to introduce the armor system.
