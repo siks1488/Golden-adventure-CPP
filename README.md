@@ -14,3 +14,8 @@ you can open that ide and drag the Golden Adventure folder into it and then you 
 **News from alpha version 1.0.1:** <br>
 Alpha version 1.0.1 includes changes to the code to make it shorter and remove unnecessary code,
 I added the armor mechanism and modified some dragon and slime codes to introduce the armor system.
+<br>
+<br>
+**News from alpha version 1.0.2:** <br>
+Alpha version 1.0.2 comes with a new enemy in the cave, he is the wizzard you can attack the wizzard
+or you can play the wizzard game where you can win money or lose money the decision is yours.
